@@ -1,7 +1,8 @@
 # 芝士奶盖乌龙宋 · Cheese Foam Oolong Song
 
 **一款游走于圆体的松弛感与宋体的书卷气之间的展示字体**
-<img width="2816" height="1536" alt="芝士奶盖乌龙宋海报" src="https://github.com/user-attachments/assets/ed785319-1cf3-469c-bc32-0f2f7a400e0f" />
+<img width="2816" height="1536" alt="芝士奶盖乌龙宋海报" src="https://github.com/user-attachments/assets/12b1b7ba-2690-4521-9622-c6a636a6d845" />
+
 
 ## 适用场景
 
