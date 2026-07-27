@@ -1,1 +1,39 @@
-# Cheese-Foam-Oolong-Song
+# 芝士奶盖乌龙宋 · Cheese Foam Oolong Song
+
+**一款游走于圆体的松弛感与宋体的书卷气之间的展示字体。**
+<img width="2816" height="1536" alt="芝士奶盖乌龙宋海报" src="https://github.com/user-attachments/assets/ed785319-1cf3-469c-bc32-0f2f7a400e0f" />
+
+## 适用场景
+
+专为饮品 / 甜点类品牌视觉设计，尤其适合：
+- 茶饮、烘焙、新式中式点心的产品命名与包装主视觉
+- 菜单板、杯身贴、小程序点单页的大字号标题
+- 社媒海报中需要"有文化底子但不端着"的短句展示文字
+
+不建议用于大段正文排版——它是一款**展示字体（Display Typeface）**，笔画粗、字面满，小尺寸下会糊。
+
+## 字符集覆盖
+
+- 完整 GB/CJK 汉字集合（含常用字、生僻字与部分异体字）
+- 韩文谚文音节（한글）
+- 日文假名（平假名／片假名）
+- 全角与半角拉丁字母、数字、标点符号
+- 目前发布 **Bold** 单一字重
+
+
+## 许可
+
+本字体衍生自 **思源宋体 / Source Han Serif**（Adobe 与 Google 联合开发的开源泛 CJK 宋体），因此依照原字体的授权条款，以 **[SIL Open Font License 1.1](https://openfontlicense.org/)** 发布。
+
+OFL 是一份"copyleft"式的开源字体协议，简单说：
+
+- ✅ 可自由使用、修改、二次分发，包括商用（例如印在包装、菜单、周边上）
+- ✅ 可以基于它继续二次开发
+- ⚠️ 修改后的版本**不得**再使用原字体的"保留字体名称"（Reserved Font Name)
+- ⚠️ 衍生字体需继续以 OFL 协议发布，不能改成更严格的商用授权（即不能"闭源"）
+- 完整条款以 [openfontlicense.org](https://openfontlicense.org/) 上的正式文本为准；本项目建议随字体文件一同附上 `LICENSE`（OFL 1.1 全文）与 `OFL-FAQ.txt`
+
+## 致谢 / Credits
+
+- 思源宋体
+- 狮尾四季春
