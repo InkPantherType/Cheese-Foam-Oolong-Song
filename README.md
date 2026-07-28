@@ -35,7 +35,7 @@
 - ✅ 可以基于它继续二次开发
 - ⚠️ 修改后的版本**不得**再使用原字体的"保留字体名称"（Reserved Font Name)
 - ⚠️ 衍生字体需继续以 OFL 协议发布，不能改成更严格的商用授权（即不能"闭源"）
-- 完整条款以 [openfontlicense.org](https://openfontlicense.org/) 上的正式文本为准；本项目建议随字体文件一同附上 `LICENSE`（OFL 1.1 全文）与 `OFL-FAQ.txt`
+- 完整条款以 [openfontlicense.org](https://openfontlicense.org/) 上的正式文本为准
 
 ## 致谢 / Credits
 
