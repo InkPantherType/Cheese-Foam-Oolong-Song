@@ -29,7 +29,7 @@
 
 ## 许可
 
-本字体衍生自 **思源宋体 / Source Han Serif**（Adobe 与 Google 联合开发的开源泛 CJK 宋体），因此依照原字体的授权条款，以 **[SIL Open Font License 1.1](https://openfontlicense.org/)** 发布。
+本字体衍生自思源宋体与狮尾四季春，依照原字体的授权条款，以 **[SIL Open Font License 1.1](https://openfontlicense.org/)** 发布。
 
 - ✅ 可自由使用、修改、二次分发，包括商用
 - ✅ 可以基于它继续二次开发
