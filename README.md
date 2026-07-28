@@ -47,4 +47,4 @@
 
 - **[思源宋体](https://github.com/adobe-fonts/source-han-serif/)**
 - **[狮尾四季春](https://github.com/max32002/swei-spring/)**
-- **[械黑GB](https://github.com/maoken-fonts/frex-sans/)**
+- **[械黑GB](https://github.com/maoken-fonts/frex-sans/)**（部分风格参考）
