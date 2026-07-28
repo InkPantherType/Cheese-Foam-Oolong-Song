@@ -14,7 +14,8 @@
 不建议用于大段正文排版——它是一款**展示字体（Display Typeface）**，笔画粗、字面满，小尺寸下会糊。
 
 ## 字形对比
-<img width="1900" height="1460" alt="字形对比-微调部分字形" src="https://github.com/user-attachments/assets/f15be0f2-7988-4537-9a5b-cb9afddd27b5" />
+<img width="1900" height="1460" alt="字形对比-微调部分字形" src="https://github.com/user-attachments/assets/2f1ace09-8361-4244-b466-29186812d209" />
+
 
 
 
