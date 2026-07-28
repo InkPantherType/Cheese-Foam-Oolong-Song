@@ -13,6 +13,10 @@
 
 不建议用于大段正文排版——它是一款**展示字体（Display Typeface）**，笔画粗、字面满，小尺寸下会糊。
 
+## 字形对比
+<img width="1900" height="1460" alt="字形对比" src="https://github.com/user-attachments/assets/5056c33c-7eec-4041-b3be-415cbf9058a7" />
+
+
 ## 字符集覆盖
 
 - 完整 GB/CJK 汉字集合（含常用字、生僻字与部分异体字）
